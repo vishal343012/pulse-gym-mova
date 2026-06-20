@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Gym Mowa",
+  "description": "Join Pulse Gym Mowa, a premium fitness center in Raipur offering strength training, weight loss programs, cardio workouts, personal training, and body transformation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
